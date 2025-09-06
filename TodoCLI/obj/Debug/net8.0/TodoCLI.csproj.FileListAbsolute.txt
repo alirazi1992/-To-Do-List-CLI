@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\bin\Debug\net8.0\TodoCLI.exe
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\bin\Debug\net8.0\TodoCLI.deps.json
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\bin\Debug\net8.0\TodoCLI.runtimeconfig.json
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\bin\Debug\net8.0\TodoCLI.dll
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\bin\Debug\net8.0\TodoCLI.pdb
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.dll
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\refint\TodoCLI.dll
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.pdb
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\TodoCLI.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\TodoCLI\TodoCLI\obj\Debug\net8.0\ref\TodoCLI.dll
